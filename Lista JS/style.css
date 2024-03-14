@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(72, 69, 69);
+    margin: auto;
+}
+
+li {
+    border: 1px solid black;
+    list-style: none;
+    width: 60vh;
+    height: 6vh;
+    background-color: aqua;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 5vh;
+}
